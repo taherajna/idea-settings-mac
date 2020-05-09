@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
