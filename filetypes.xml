@@ -1,0 +1,51 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="002_1_market_data_definition" type="HTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="branch1" type="PLAIN_TEXT" />
+      <mapping pattern="Compare" type="PLAIN_TEXT" />
+      <mapping pattern="branch2" type="PLAIN_TEXT" />
+      <mapping pattern="script_file" type="PLAIN_TEXT" />
+      <mapping pattern="compare" type="PLAIN_TEXT" />
+      <mapping pattern="supres" type="PLAIN_TEXT" />
+      <mapping pattern="cd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="master_file2" type="PLAIN_TEXT" />
+      <mapping ext="koch" type="PLAIN_TEXT" />
+      <mapping ext="cima" type="PLAIN_TEXT" />
+      <mapping ext="val" type="PLAIN_TEXT" />
+      <mapping ext="jinit" type="PLAIN_TEXT" />
+      <mapping ext="suncor" type="PLAIN_TEXT" />
+      <mapping ext="mssql" type="PLAIN_TEXT" />
+      <mapping ext="properties_23" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="properties_25" type="PLAIN_TEXT" />
+      <mapping ext="dfa_with_defaults" type="PLAIN_TEXT" />
+      <mapping ext="gre" type="PLAIN_TEXT" />
+      <mapping ext="int_ci" type="PLAIN_TEXT" />
+      <mapping ext="sdr" type="PLAIN_TEXT" />
+      <mapping ext="wec" type="PLAIN_TEXT" />
+      <mapping ext="jinit_gre" type="PLAIN_TEXT" />
+      <mapping ext="valero" type="PLAIN_TEXT" />
+      <mapping ext="shv" type="PLAIN_TEXT" />
+      <mapping ext="suncore" type="PLAIN_TEXT" />
+      <mapping ext="dfa" type="PLAIN_TEXT" />
+      <mapping ext="work" type="PLAIN_TEXT" />
+      <mapping ext="integration_ci" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tvs_recon_run_all_customers.groovy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
