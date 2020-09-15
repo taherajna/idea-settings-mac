@@ -2,4 +2,14 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
 </keymap>
