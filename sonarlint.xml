@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.tpt.com" />
+          <option name="name" value="TPT Sonar" />
+          <option name="login" value="Taher.Ajnawala" />
+          <password>dffddfcbdfdadfdadfcbdfe2dfcbdfdadfdadfcbdf9bdf98df99</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
