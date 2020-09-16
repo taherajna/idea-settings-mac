@@ -2,9 +2,6 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
