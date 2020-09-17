@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="14">
+    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Main menu" />
       <path value="VCS" />
@@ -12,13 +12,6 @@
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Coverage" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
