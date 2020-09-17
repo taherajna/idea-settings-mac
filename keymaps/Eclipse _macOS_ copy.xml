@@ -11,6 +11,10 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
