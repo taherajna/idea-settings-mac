@@ -22,8 +22,8 @@
       <mapping ext="mssql" type="PLAIN_TEXT" />
       <mapping ext="properties_23" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
-      <mapping ext="properties_25" type="PLAIN_TEXT" />
       <mapping ext="dfa_with_defaults" type="PLAIN_TEXT" />
+      <mapping ext="properties_25" type="PLAIN_TEXT" />
       <mapping ext="gre" type="PLAIN_TEXT" />
       <mapping ext="int_ci" type="PLAIN_TEXT" />
       <mapping ext="sdr" type="PLAIN_TEXT" />
@@ -33,8 +33,8 @@
       <mapping ext="shv" type="PLAIN_TEXT" />
       <mapping ext="suncore" type="PLAIN_TEXT" />
       <mapping ext="dfa" type="PLAIN_TEXT" />
-      <mapping ext="work" type="PLAIN_TEXT" />
       <mapping ext="integration_ci" type="PLAIN_TEXT" />
+      <mapping ext="work" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
