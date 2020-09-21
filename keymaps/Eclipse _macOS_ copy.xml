@@ -30,6 +30,14 @@
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="meta help" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -68,6 +76,8 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
