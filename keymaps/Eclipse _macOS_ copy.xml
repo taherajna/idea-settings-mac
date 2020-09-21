@@ -2,6 +2,7 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -77,5 +78,6 @@
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource" />
 </keymap>
