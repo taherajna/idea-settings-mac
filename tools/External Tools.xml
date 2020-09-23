@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/taher.ajnawala/Desktop" />
     </exec>
   </tool>
+  <tool name="Copy Certs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/cp" />
+      <option name="PARAMETERS" value="-a /Users/taherajnawala/Documents/Work/certs /tmp/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
