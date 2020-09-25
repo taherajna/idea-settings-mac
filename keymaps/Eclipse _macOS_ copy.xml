@@ -85,6 +85,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
   <action id="Sql.EditParameter" />
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="ctrl f5" />
