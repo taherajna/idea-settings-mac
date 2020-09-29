@@ -6,6 +6,7 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="ChangeSignature" />
   <action id="ChangesView.Move" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta divide" />
@@ -52,10 +53,14 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="Jdbc.OpenEditor" />
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="ModifyObject" />
   <action id="NavBar-navigate" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta n" />
