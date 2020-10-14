@@ -70,7 +70,7 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="7">
+    <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -82,7 +82,7 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="8">
+    <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
