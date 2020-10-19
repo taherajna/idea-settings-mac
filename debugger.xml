@@ -433,9 +433,6 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
-    </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
@@ -446,6 +443,7 @@
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="400" />
     </data-views>
     <general />
     <debuggers>
