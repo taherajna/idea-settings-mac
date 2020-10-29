@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,12 +25,12 @@
     <mask>*JDBI*.java</mask>
     <mask>*.log</mask>
     <mask>*properties</mask>
-    <mask>*Test.java</mask>
     <mask>machines.yml</mask>
     <mask>*swap*.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.graphqls</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
