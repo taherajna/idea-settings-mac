@@ -3,7 +3,8 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
-    <option name="MAX_LOOKUP_WIDTH2" value="811" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="19" />
+    <option name="MAX_LOOKUP_WIDTH2" value="832" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
