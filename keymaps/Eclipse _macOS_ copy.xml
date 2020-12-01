@@ -11,6 +11,9 @@
   <action id="CleanupBranches">
     <keyboard-shortcut first-keystroke="shift ctrl meta delete" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -64,6 +67,7 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="Jdbc.OpenEditor" />
+  <action id="Kotlin.RunScratch" />
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
@@ -105,6 +109,7 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="RunDashboard.Run" />
+  <action id="SelectIn" />
   <action id="ServiceView.GroupByContributor" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
