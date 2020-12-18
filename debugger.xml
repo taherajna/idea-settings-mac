@@ -438,7 +438,9 @@
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="400" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
