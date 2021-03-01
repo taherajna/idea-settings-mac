@@ -34,8 +34,8 @@
       <mapping ext="shv" type="PLAIN_TEXT" />
       <mapping ext="suncore" type="PLAIN_TEXT" />
       <mapping ext="dfa" type="PLAIN_TEXT" />
-      <mapping ext="integration_ci" type="PLAIN_TEXT" />
       <mapping ext="work" type="PLAIN_TEXT" />
+      <mapping ext="integration_ci" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
