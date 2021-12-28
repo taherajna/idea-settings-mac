@@ -18,6 +18,7 @@
       <mapping pattern="script_file" type="PLAIN_TEXT" />
       <mapping ext="koch" type="PLAIN_TEXT" />
       <mapping ext="cima" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="val" type="PLAIN_TEXT" />
       <mapping ext="jinit" type="PLAIN_TEXT" />
       <mapping ext="suncor" type="PLAIN_TEXT" />
