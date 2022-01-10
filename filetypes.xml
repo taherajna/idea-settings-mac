@@ -2,21 +2,23 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="002_1_market_data_definition" type="HTML" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="Compare" type="PLAIN_TEXT" />
       <mapping pattern="master_file2" type="PLAIN_TEXT" />
-      <mapping pattern="branch1" type="PLAIN_TEXT" />
-      <mapping pattern="branch2" type="PLAIN_TEXT" />
-      <mapping pattern="script_file" type="PLAIN_TEXT" />
-      <mapping pattern="compare" type="PLAIN_TEXT" />
-      <mapping pattern="supres" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="cd" type="PLAIN_TEXT" />
+      <mapping pattern="Compare" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="compare" type="PLAIN_TEXT" />
+      <mapping pattern="cd" type="PLAIN_TEXT" />
+      <mapping pattern="branch2" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="supres" type="PLAIN_TEXT" />
+      <mapping pattern="branch1" type="PLAIN_TEXT" />
+      <mapping pattern="script_file" type="PLAIN_TEXT" />
       <mapping ext="koch" type="PLAIN_TEXT" />
       <mapping ext="cima" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="val" type="PLAIN_TEXT" />
       <mapping ext="jinit" type="PLAIN_TEXT" />
       <mapping ext="suncor" type="PLAIN_TEXT" />
@@ -41,6 +43,7 @@
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />

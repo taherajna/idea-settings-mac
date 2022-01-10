@@ -5,11 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.csv</mask>
     <mask>*.qbc</mask>
@@ -23,13 +19,18 @@
     <mask>*properties</mask>
     <mask>machines.yml</mask>
     <mask>*swap*.java</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*Service.java</mask>
-    <mask>*Test.java</mask>
     <mask>*JPA.java</mask>
     <mask>*.js</mask>
     <mask>*.graphqls</mask>
+    <mask>*imr*.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
