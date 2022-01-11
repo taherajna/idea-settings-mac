@@ -35,6 +35,9 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta multiply" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
