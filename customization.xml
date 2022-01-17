@@ -74,7 +74,7 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="6">
+    <group value="Git.Pull" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -86,7 +86,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Fetch" is_action="true" action_type="1" position="7">
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -98,7 +98,14 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="1" position="8">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.ApplyPatch" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
