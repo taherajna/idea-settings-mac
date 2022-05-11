@@ -5,15 +5,15 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="cd" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
+      <mapping pattern="master_file2" type="PLAIN_TEXT" />
+      <mapping pattern="Compare" type="PLAIN_TEXT" />
+      <mapping pattern="cd" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="branch2" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="master_file2" type="PLAIN_TEXT" />
       <mapping pattern="supres" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Compare" type="PLAIN_TEXT" />
       <mapping pattern="branch1" type="PLAIN_TEXT" />
       <mapping pattern="script_file" type="PLAIN_TEXT" />
       <mapping ext="koch" type="PLAIN_TEXT" />
