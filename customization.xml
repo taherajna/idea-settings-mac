@@ -1,15 +1,8 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Android.MainToolBarActionGroup" is_group="true" action_type="-1" position="9">
+    <group seperator="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android Profiler" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.Push" is_action="true" action_type="-1" position="5">
@@ -23,13 +16,6 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Profiler" is_group="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Coverage" is_action="true" action_type="-1" position="3">
@@ -74,7 +60,7 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="6">
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -86,7 +72,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="7">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
@@ -98,18 +84,18 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Fetch" is_action="true" action_type="1" position="8">
+    <group value="ChangesView.ApplyPatch" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="1" position="9">
+    <group value="CleanupBranches" is_action="true" action_type="1" position="31">
       <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
+      <path value="Main Menu" />
+      <path value="Git" />
+      <path value="Git.MainMenu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="ChangesView.ApplyPatch" icon="$USER_HOME$/Desktop/Icons/icons/vcs/patch.png" />
