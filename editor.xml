@@ -32,6 +32,6 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old.java.clear.expression.type" />
+    <option name="lastViewedProviderKeyId" value="Groovy.parameter.hints.old" />
   </component>
 </application>
